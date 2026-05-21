@@ -53,6 +53,7 @@
 
 - [Awesome Electron](https://github.com/sindresorhus/awesome-electron): A curated list of Electron resources, including articles, tools, and plugins.
 - [Electron API Demos App](https://github.com/hokein/electron-sample-apps/tree/master/api/demos): An Electron app showcasing the usage of various Electron APIs.
+- [Lumox](https://lumox.app) - QuickTime alternative for mirroring mobile device screens to Mac; create product demos and tutorials.
 
 ## Contribute
 
