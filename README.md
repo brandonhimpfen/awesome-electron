@@ -1,4 +1,4 @@
-# Awesome Electron [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome)
+# Awesome Electron [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -51,7 +51,6 @@
 
 ## Additional Resources
 
-- [Awesome Electron](https://github.com/sindresorhus/awesome-electron): A curated list of Electron resources, including articles, tools, and plugins.
 - [Electron API Demos App](https://github.com/hokein/electron-sample-apps/tree/master/api/demos): An Electron app showcasing the usage of various Electron APIs.
 
 ## Contribute
